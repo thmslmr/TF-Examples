@@ -1,0 +1,6 @@
+__pycache__
+checkpoints
+graphs
+mnist
+__init__.py
+.DS_Store
